@@ -1,5 +1,7 @@
-# Earth-bot
+#Earth bot
 
-Earth bot is a bot for the Earth clan server that i own.
+A geral purpose discord bot for earth clan discord server.
 
-Only use it if you know how to use it 
+#Self hosting
+
+Not made for self hosting unless you know what you are doing.
